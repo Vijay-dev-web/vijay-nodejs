@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<library>
+  <book>
+    <title>Test</title>
+    <author>J.K. Rowling</author>
+    <publicationYear>1997</publicationYear>
+  </book>
+  <book>
+    <title>Test</title>
+    <author>J.R.R. Tolkien</author>
+    <publicationYear>1937</publicationYear>
+  </book>
+</library>
